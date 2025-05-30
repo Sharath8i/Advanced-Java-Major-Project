@@ -1,4 +1,4 @@
-A comprehensive web application for managing Employees built with JSP, Servlets, and MySQL following MVC architecture principles.
+## This project is a Hospital Patient Management System developed using Advanced Java (JSP, JDBC) and MySQL. It enables the management of patient records, including adding, updating, deleting, viewing, and generating detailed reports based on specific filters.
 ___
 📋 Prerequisites                                                
 Before running this application, make sure you have the following installed:                                                

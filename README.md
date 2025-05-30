@@ -41,7 +41,7 @@ ___
 🪟 View Patients                       
 ![Output](https://github.com/Sharath8i/Advanced-Java-Major-Project/blob/main/Outputs/AddPatient.png)                       
 
-❌ Delete p+Patient                                  
+❌ Delete Patient                                  
 ![Output](https://github.com/Sharath8i/Advanced-Java-Major-Project/blob/main/Outputs/DeletePatient.png)
 
 

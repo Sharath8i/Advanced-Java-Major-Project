@@ -1,4 +1,4 @@
-## Advanced Java Major Project - Hospital Management System
+##  Hospital Management System
 
 
 This project is a Hospital Patient Management System developed using Advanced Java (JSP, JDBC) and MySQL. It enables the management of patient records, including adding, updating, deleting, viewing, and generating detailed reports based on specific filters.
